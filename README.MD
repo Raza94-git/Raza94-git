@@ -1,7 +1,7 @@
 # Hello, I'm MUSTAFA RAVDA! 👋
 
 ## About Me
-I’m a **Data Analyst** with a background in **Civil Engineering**. I transitioned into data analytics after 7 years of experience in the engineering field, after I discovered my passion for uncovering insights from data. 
+I’m transitioning to **Data Analyst** and **Machcin Learning Engineer** with a background in **Civil Engineering**. I transitioned into data analytics after 7 years of experience in the engineering field, after I discovered my passion for uncovering insights from data. 
 
 ## Tools and Skills:
 - **Data Query**: SQL Server & SSMS
