@@ -13,7 +13,7 @@ I am dedicated to continuous learning and passionate about applying my knowledge
 - **Python Libraries for Data Analysis**: Numpy, Pandas, Matplotlib, and Seaborn
 - **Machine Learning**: Scikit-learn and SciPy for predictive modeling and data analysis
 - **GenAI**: ChatGPT & Julius AI for advanced AI-driven solutions
-- **IDE**: Jupyter Notebook Visual Studio Code for interactive data exploration and analysis
+- **IDE**: Jupyter Notebook & Visual Studio Code for interactive data exploration and analysis
 
 ## Get in Touch:
 - **LinkedIn**: [Mustafa Ravda](https://www.linkedin.com/in/mustafa-ravda-b84169ba/)
