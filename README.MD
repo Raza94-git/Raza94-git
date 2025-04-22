@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Raza94-git/Raza94-git/blob/main/assets/banner.png?raw=true" alt="Mustafa Ravda Banner" width="100%" />
+  <img src="https://github.com/Raza94-git/Raza94-git/blob/main/Assets/banner.png?raw=true" alt="Mustafa Ravda Banner" width="100%" />
 </p>
 
 
