@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Raza94-git/Raza94-git/blob/main/assets/banner.png?raw=true" alt="Mustafa Ravda Banner" width="100%" />
+</p>
+
+
 👋 Hi there! I'm Mustafa Ravda — a Data Scientist and Analyst passionate about transforming data into meaningful insights.
 
 What began as a hobby—exploring datasets and experimenting with Python—soon turned into a professional journey. To formalize my learning, I pursued a Post Graduate Program in Data Science and AI from IIT Roorkee, where I built a strong foundation in Python, SQL, Statistics, and Power BI.
