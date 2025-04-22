@@ -17,4 +17,4 @@ I am dedicated to continuous learning and passionate about applying my knowledge
 
 ## Get in Touch:
 - **LinkedIn**: [Mustafa Ravda](https://www.linkedin.com/in/mustafa-ravda-b84169ba/)
-- **Email**: (mailto:mustafaravda@gmail.com)
+- **Email**: (mustafaravda@gmail.com)
