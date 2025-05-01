@@ -4,7 +4,7 @@
 </p>
 
 
-👋 Hi there! I'm Mustafa Ravda — a Data Scientist and Analyst passionate about transforming data into meaningful insights.
+👋 Hi there! I'm Mustafa Ravda — a Data Analyst and machine learning enthusiast passionate about transforming data into meaningful insights.
 
 What began as a hobby—exploring datasets and experimenting with Python—soon turned into a potential career path. I built a strong foundation in Python, SQL, Statistics, and Power BI.
 
